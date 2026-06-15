@@ -1,0 +1,14 @@
+[condition]
+resolution=16
++vref=5.0
+-vref=0.0
+output_format=serial
+bit_order=msb
+
+[outputlimit]
+daccoderange=512:64741
+
+[value]
+2.5
+1.0
+0.0
