@@ -123,6 +123,6 @@ Q2. 為什麼有的 value 被標註 `exceed daccoderange`？
 A2. 代表該 value 對應的 digital code 超出你設定的最大值，程式自動用最大值替代並加註說明。
 
 ## 未來計畫
-[] 補上 code 下限檢查，避免出現負數或低於 'code_min' 的結果。  
-[] 把 input.txt / output.txt 改成可由外部指定。  
-[] 當某個 value 無法轉成數字時，可以印出提醒，方便除錯。  
+- [ ] 補上 code 下限檢查，避免出現負數或低於 'code_min' 的結果。  
+- [ ] 把 input.txt / output.txt 改成可由外部指定。  
+- [ ] 當某個 value 無法轉成數字時，可以印出提醒，方便除錯。  
